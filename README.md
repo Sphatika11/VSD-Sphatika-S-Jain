@@ -106,6 +106,7 @@ sudo make install
 | 📊 GTKWave | ✅ Complete | Waveform Analysis |
 | ⚡ Ngspice | ✅ Complete | Circuit Simulation |
 | 🎨 Magic VLSI | ✅ Complete | Layout Design |
+![Uploading WhatsApp Image 2025-09-20 at 21.50.22_b400d060.jpg…]()
 
 ## Environment Ready for VLSI Design Journey!
 
